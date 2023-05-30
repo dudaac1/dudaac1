@@ -20,18 +20,17 @@ Most familiar with:
   <img  alt="HTML5" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
   <img alt="CSS3" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
   <img alt="C" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  />&nbsp;
-  <img alt="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
 </p>
 
 Already worked with:
 <p align="left"> 
+  <img alt="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Unity" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />&nbsp;
   <img alt="C#" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
   <img alt="Java" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;
   <img alt="Haskell" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original-wordmark.svg" />&nbsp;
   <img alt="MySQL" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
   <img alt="PostgreSQL" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />&nbsp;
-  
   <img alt="Git" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />&nbsp;
   <img alt="Gitlab" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />&nbsp;
   <img alt="Bitbucket" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />&nbsp;
