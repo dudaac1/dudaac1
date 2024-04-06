@@ -3,8 +3,8 @@
 My name is Eduarda Carvalho, I'm 23 years old and I live in Rio Grande do Sul/Brazil. 
 
 - 📚 Studying computer science @ [UFPel](https://portal.ufpel.edu.br/);
-- 🌱 Currently learning about data analytics;
-- 🌺 Web programming makes me cheerful;
+- 🌱 Currently learning about data science (sql, python, artificial intelligence);
+- 🌺 Programming makes me cheerful;
 - 💖 Fun facts: I enjoy animals (mostly dogs), reading, nature and being around people;
 - 📫 How to reach me: dudaac99@gmail.com.
 
